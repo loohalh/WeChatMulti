@@ -2,7 +2,7 @@
 //  WXChatUITests.swift
 //  WXChatUITests
 //
-//  Created by mba on 2025/12/10.
+//  Created by looha on 2025/12/10.
 //
 
 import XCTest
