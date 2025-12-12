@@ -5,7 +5,7 @@
 ## 使用
 1 、安装微信，安装[WeChatTweak](https://github.com/loohalh/WeChatTweak)
 
-2、安装WeChatMulti
+2、安装[WeChatMulti](https://github.com/loohalh/WeChatMulti/releases/download/v1.0.0/WeChatMulti-1.0.dmg)
 
 3、应用程序点开Wechat(蓝色图标)即可多开
 
