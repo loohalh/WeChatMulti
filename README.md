@@ -3,7 +3,7 @@
 配合[WeChatTweak](https://github.com/loohalh/WeChatTweak)使用，才有效果
 
 ## 使用
-1 、安装WeChat，安装[WeChatTweak](https://github.com/loohalh/WeChatTweak)
+1 、安装微信，安装[WeChatTweak](https://github.com/loohalh/WeChatTweak)
 
 2、安装WeChatMulti
 
