@@ -1,9 +1,9 @@
 # 微信多开启动器
 
-配合[WeChatTweak](https://github.com/loohalh/WeChatTweak)使用，才有效果
+配合[WeChatTweak](https://github.com/sunnyyoung/WeChatTweak)使用，才有效果
 
 ## 使用
-1 、安装微信，安装[WeChatTweak](https://github.com/loohalh/WeChatTweak)
+1 、安装微信，安装[WeChatTweak]([https://github.com/loohalh/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak))
 
 2、安装[WeChatMulti](https://github.com/loohalh/WeChatMulti/releases/download/v1.0.0/WeChatMulti-1.0.dmg)
 
