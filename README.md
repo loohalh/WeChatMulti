@@ -8,7 +8,7 @@
 
 2、安装[WeChatMulti](https://github.com/loohalh/WeChatMulti/releases/download/v2.0.0/WeChatMulti-2.0.0.dmg)
 
-3、应用程序点开WXchat(蓝色图标)即可多开
+3、应用程序点开WXChat(蓝色图标)即可多开
 
 <img width="194" height="190" alt="image" src="https://github.com/user-attachments/assets/720bb4bf-01b6-4346-af1b-954138b4a5ff" />
 
