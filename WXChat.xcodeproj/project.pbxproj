@@ -24,7 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2CB2C4A82EE95DAF00035BE7 /* WeChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CB2C4A82EE95DAF00035BE7 /* WxChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WxChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CB2C4B92EE95DB100035BE7 /* WXChatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WXChatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CB2C4C32EE95DB100035BE7 /* WXChatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WXChatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -85,7 +85,7 @@
 		2CB2C4A92EE95DAF00035BE7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2CB2C4A82EE95DAF00035BE7 /* WeChat.app */,
+				2CB2C4A82EE95DAF00035BE7 /* WxChat.app */,
 				2CB2C4B92EE95DB100035BE7 /* WXChatTests.xctest */,
 				2CB2C4C32EE95DB100035BE7 /* WXChatUITests.xctest */,
 			);
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2CB2C4A72EE95DAF00035BE7 /* WeChat */ = {
+		2CB2C4A72EE95DAF00035BE7 /* WxChat */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CB2C4CD2EE95DB100035BE7 /* Build configuration list for PBXNativeTarget "WeChat" */;
+			buildConfigurationList = 2CB2C4CD2EE95DB100035BE7 /* Build configuration list for PBXNativeTarget "WxChat" */;
 			buildPhases = (
 				2CB2C4A42EE95DAF00035BE7 /* Sources */,
 				2CB2C4A52EE95DAF00035BE7 /* Frameworks */,
@@ -110,11 +110,11 @@
 			fileSystemSynchronizedGroups = (
 				2CB2C4AA2EE95DAF00035BE7 /* WXChat */,
 			);
-			name = WeChat;
+			name = WxChat;
 			packageProductDependencies = (
 			);
 			productName = WXChat;
-			productReference = 2CB2C4A82EE95DAF00035BE7 /* WeChat.app */;
+			productReference = 2CB2C4A82EE95DAF00035BE7 /* WxChat.app */;
 			productType = "com.apple.product-type.application";
 		};
 		2CB2C4B82EE95DB100035BE7 /* WXChatTests */ = {
@@ -200,7 +200,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2CB2C4A72EE95DAF00035BE7 /* WeChat */,
+				2CB2C4A72EE95DAF00035BE7 /* WxChat */,
 				2CB2C4B82EE95DB100035BE7 /* WXChatTests */,
 				2CB2C4C22EE95DB100035BE7 /* WXChatUITests */,
 			);
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		2CB2C4BB2EE95DB100035BE7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2CB2C4A72EE95DAF00035BE7 /* WeChat */;
+			target = 2CB2C4A72EE95DAF00035BE7 /* WxChat */;
 			targetProxy = 2CB2C4BA2EE95DB100035BE7 /* PBXContainerItemProxy */;
 		};
 		2CB2C4C52EE95DB100035BE7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2CB2C4A72EE95DAF00035BE7 /* WeChat */;
+			target = 2CB2C4A72EE95DAF00035BE7 /* WxChat */;
 			targetProxy = 2CB2C4C42EE95DB100035BE7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -395,9 +395,9 @@
 				CODE_SIGN_ENTITLEMENTS = WXChat/WXChat.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = WeChat;
+				INFOPLIST_KEY_CFBundleDisplayName = WXChat;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
@@ -406,8 +406,8 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.5;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tencent.xin.WeChat;
+				MARKETING_VERSION = 2.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tencent.xin.WXChat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -423,9 +423,9 @@
 				CODE_SIGN_ENTITLEMENTS = WXChat/WXChat.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = WeChat;
+				INFOPLIST_KEY_CFBundleDisplayName = WXChat;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
@@ -434,8 +434,8 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.5;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tencent.xin.WeChat;
+				MARKETING_VERSION = 2.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tencent.xin.WXChat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -519,7 +519,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CB2C4CD2EE95DB100035BE7 /* Build configuration list for PBXNativeTarget "WeChat" */ = {
+		2CB2C4CD2EE95DB100035BE7 /* Build configuration list for PBXNativeTarget "WxChat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2CB2C4CE2EE95DB100035BE7 /* Debug */,
