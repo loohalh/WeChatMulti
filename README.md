@@ -6,12 +6,17 @@
 ## 使用
 1 、安装微信，安装[WeChatTweak]([https://github.com/loohalh/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak))
 
-2、安装[WeChatMulti](https://github.com/loohalh/WeChatMulti/releases/download/v1.0.0/WeChatMulti-1.0.dmg)
+2、安装[WeChatMulti](https://github.com/loohalh/WeChatMulti/releases/download/v2.0.0/WeChatMulti-2.0.0.dmg)
 
-3、应用程序点开Wechat(蓝色图标)即可多开
+3、应用程序点开WXchat(蓝色图标)即可多开
+<img width="194" height="190" alt="image" src="https://github.com/user-attachments/assets/720bb4bf-01b6-4346-af1b-954138b4a5ff" />
 
-<img width="246" height="214" alt="eebfc3bb2de9001dc606daf0fc18b802" src="https://github.com/user-attachments/assets/243f3b87-103a-4269-9630-5ac913ee89a8" />
 
 # 更新日志
-v1.0.0 支持配合WeChatTweak多开
-v2.0.0 修复未安装微信时，运行循环无限多开
+v1.0.0 
+
+支持配合WeChatTweak多开
+
+v2.0.0 
+
+修复未安装微信时，运行循环无限多开(安装过v1.0.0需要先卸载v1.0.0，在安装新版本)
